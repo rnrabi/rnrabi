@@ -3,4 +3,4 @@
 <p> I am a web developer.........</p>
 <br>
 <h2>My skill</h2>
-<p>have to add skill</p>
+<p>react javaScript css html daisyUI bootstrap node express mongodb</p>
