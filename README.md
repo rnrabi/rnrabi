@@ -1,7 +1,6 @@
 <img src="https://i.ibb.co/Cvv2dxc/banner2.png" alt="my pic"/>
 <h2>About me:</h2>
-<p> I am a web developer.........</p>
-<h1 align="center">Hi 👋, I'm Rabindro nath barman</h1>
+<p align="center">Hi 👋, I'm Rabindro nath barman. I am a mern stack web devloper. </p>
 <h3 align="center">A passionate frontend developer from India</h3>
 <br>
 <h2>My skill</h2>
