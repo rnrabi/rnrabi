@@ -1,7 +1,7 @@
 <img src="https://i.ibb.co/Cvv2dxc/banner2.png" alt="my pic"/>
 <h2>About me:</h2>
-<p align="center">Hi 👋, I'm Rabindro nath barman. I am a mern stack web devloper. </p>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p>Hi 👋, I'm Rabindro nath barman. I am a mern stack web developer. I have some excellent projects.</p>
+
 <br>
 <h2>My skill</h2>
 <p>react javaScript css html daisyUI bootstrap node express mongodb</p>
